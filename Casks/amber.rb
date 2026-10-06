@@ -1,6 +1,6 @@
 cask "amber" do
-  version "0.3.0"
-  sha256 "5e293060e160940000f339ca2e861a48fbdf9004faed978d04e17782a50f275a"
+  version "1.2.4"
+  sha256 "72c179fc911ce60e7a680a0a5bb64f4686bac163767aadc4e8ef5f4ee780edb6"
 
   url "https://amber.arjco.de/downloads/Amber-#{version}.dmg"
   name "Amber"
